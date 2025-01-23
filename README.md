@@ -17,7 +17,7 @@
 4. **Save Results**: Automatically save scraped and checked proxy data into the `results` directory.
 
 ## How It Works
-1. Add your list of proxy source URLs to the file `source.txt` (one URL per line).
+1. Add your list of proxy source URLs to the file `source.txt` (one URL per line) or leave blank if you want to use the default source.
 2. Run the script.
 3. Choose the type of proxy you'd like to filter (HTTP, HTTPS, SOCKS4, SOCKS5).
 4. The script will scrape proxies, filter them, and save the results to a timestamped file.
