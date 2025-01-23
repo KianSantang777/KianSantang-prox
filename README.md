@@ -1,12 +1,15 @@
 <center>
 <h3 align="center"><b>Proxy Scrapper & Grabber Version 1.0</b></h3><br>
+   
+ ![plastic](https://img.shields.io/badge/Language-Python_3.13.1-blue) 
+   
 
-![plastic](https://img.shields.io/badge/Language-Python_3.13.1-blue) 
-
-
-<img src="https://raw.githubusercontent.com/KianSantang777/KianSantang-prox/refs/heads/main/mainmenu.jpg" /></a>
+   <img src="https://raw.githubusercontent.com/KianSantang777/KianSantang-prox/refs/heads/main/scrapping-process.png" alt="process scrapping" height="150" width="230" /></a>
+    <img src="https://raw.githubusercontent.com/KianSantang777/KianSantang-prox/refs/heads/main/mainmenu.jpg" alt="Main menu" height="150" width="230" />
+   
+   </center>
+   <br>
 </center>
-<br>
 
 **KIAN SANTANG: Proxy Scraper + Checker** is a Python script designed to scrape proxy lists from multiple sources, filter proxies by type (HTTP, HTTPS, SOCKS4, SOCKS5), and check their availability (live or dead).
 
